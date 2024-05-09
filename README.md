@@ -1,10 +1,13 @@
 # Arcgis-for-spliting-datasets
 
-This code is for spliting high resolution image.
+This code is for spliting high-resolution images.
 
 ## environment setting
-We need to setting our arcpy environment, so first download Arcgis.
+We need to set up our arcpy environment, so the first step is to download ArcGIS.
 
-## remote controll image
-We use Arcgis tool kit to splite high resolution from TIF.
-The  tool is in the Data Management Tools -> Raster ->Raster Process -> Splite Raster.
+## Remote Control Image
+We utilize the ArcGIS toolkit to split high-resolution images from TIFF format. 
+The tool can be found under Data Management Tools -> Raster -> Raster Processing -> Split Raster.
+
+## Label
+
